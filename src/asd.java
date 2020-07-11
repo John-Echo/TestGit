@@ -7,5 +7,7 @@ public class asd {
     void write(String adf){
         System.out.println(adf + "写字");
     }
+    void read(){
 
+    }
 }
